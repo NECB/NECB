@@ -1,4 +1,4 @@
-- 👋 Hola, soy Matias alias NECB (Not even close baby)
-- 👀 Estoy interesado 
+- 👋 Hola, soy Matias
+- 👀 Estoy interesado en incorporar nuevos conocimientos que me ayuden a destacarme en el ámbito laboral
 - 🌱 Estoy aprendiendo programacion web inicial HTML, css y Javascript.
 - 💞️ Me gustaría poder participar en nuevos proyectos, agrupando mis conocimientos en programación front end y Diseño UX/UI.
